@@ -6,7 +6,6 @@
 
 # - Image enhancement-retinex
 # - Image segmentation
-# - Classification
 
 # - Building extraction and modeling
 # - road extraction and modeling
@@ -16,4 +15,3 @@
 
 # Contact and support
 # lily-hust@163.com
-lilyhust@gmail.com
